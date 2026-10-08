@@ -31,3 +31,7 @@ requests
 python-dotenv
 pydantic-settings
 tqdm
+
+langchain-experimental
+tiktoken
+pytest
