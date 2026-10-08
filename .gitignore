@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# data and indexes
+vectorstore/
+data/processed/
+*.sqlite3
+
+# os/editor
+.DS_Store
+.vscode/
+.idea/

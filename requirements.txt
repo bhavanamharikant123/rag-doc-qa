@@ -1,0 +1,33 @@
+# --- LLM framework ---
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+
+# --- Vector DB ---
+chromadb
+
+# --- Document loading ---
+pypdf
+pymupdf
+
+# --- Retrieval improvements (Phase 3) ---
+rank-bm25
+sentence-transformers
+
+# --- Evaluation (Phase 4) ---
+ragas
+datasets
+
+# --- Backend and UI (Phase 5) ---
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+requests
+
+# --- Utilities ---
+python-dotenv
+pydantic-settings
+tqdm
